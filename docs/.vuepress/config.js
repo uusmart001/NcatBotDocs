@@ -17,7 +17,7 @@ export default defineUserConfig({
   },
   theme: plumeTheme({
     hostname: 'http://docs.ncatbot.xyz',
-    docsRepo: 'https://github.com/huan-yp/NcatBotDocs',
+    docsRepo: 'https://github.com/uusmart001/NcatBotDocs',
     docsBranch: 'master',
     docsDir: 'docs',
     plugins: {
@@ -30,7 +30,7 @@ export default defineUserConfig({
       // 1. 评论配置放这里
       comment: {
         provider: 'Giscus',
-        repo: 'huan-yp/NcatBotDocs',
+        repo: 'uusmart001/NcatBotDocs',
         repoId: 'R_kgDOP5C1xA',
         category: 'Announcements',
         categoryId: 'DIC_kwDOP5C1xM4CwTIS',

@@ -33,6 +33,6 @@ export default defineThemeConfig({
       demo: false, // 禁用旧的代码演示功能
     },
   },
-  footer: { message: "", copyright: "© 2025-2026 NcatBot" },
+  footer: { message: "", copyright: "© 2025-2026 wanbing" },
   copyright: 'CC-BY-4.0',
 })
