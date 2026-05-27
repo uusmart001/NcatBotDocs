@@ -4,6 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   // 请不要忘记设置默认语言
+  base: '/NcatBotDocs/',
   blog: false,
   lang: 'zh-CN',
   pagePatterns: ['**/*.md', '!.vuepress', '!node_modules'],
